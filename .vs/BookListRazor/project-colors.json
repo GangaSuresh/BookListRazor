@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "41a3f829-8e61-4f6f-8af1-43e036ebf86e": {
+      "ProjectGuid": "41a3f829-8e61-4f6f-8af1-43e036ebf86e",
+      "DisplayName": "BookListRazor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
